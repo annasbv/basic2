@@ -1,0 +1,2 @@
+run 'make' to build application 
+run 'make clean' to delete the intermediate and final build outputs
